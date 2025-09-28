@@ -11,5 +11,5 @@ export interface ButtonProps {
 
 
 export interface LayoutProps {
-  children: ReactNode;
+  children: React.ReactNode;
 }
